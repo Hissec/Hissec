@@ -28,3 +28,7 @@ http://t.zoukankan.com/tr1ple-p-12335098.html
 jdbc:
 https://reposhub.com/java/distributed-databases/su18-JDBC-Attack.html
 https://copyfuture.com/blogs-details/20210619124317409h
+
+XXE:
+https://zhuanlan.zhihu.com/p/265402618
+https://www.cnblogs.com/nice0e3/p/13746076.html
