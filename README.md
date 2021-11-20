@@ -21,3 +21,9 @@ http://noahblog.360.cn/blackhat-2021yi-ti-xiang-xi-fen-xi-fastjsonfan-xu-lie-hua
 
 jinjava:
 https://securitylab.github.com/advisories/GHSL-2020-072-hubspot_jinjava/
+
+jndi:
+http://t.zoukankan.com/tr1ple-p-12335098.html
+
+jdbc:
+https://reposhub.com/java/distributed-databases/su18-JDBC-Attack.html
