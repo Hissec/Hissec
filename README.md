@@ -32,3 +32,7 @@ https://copyfuture.com/blogs-details/20210619124317409h
 XXE:
 https://zhuanlan.zhihu.com/p/265402618
 https://www.cnblogs.com/nice0e3/p/13746076.html
+
+GO-template:
+https://colobu.com/2016/10/09/Go-embedded-template-best-practices/
+https://colobu.com/2019/11/05/Golang-Templates-Cheatsheet/
