@@ -24,6 +24,7 @@ https://securitylab.github.com/advisories/GHSL-2020-072-hubspot_jinjava/
 
 jndi:
 http://t.zoukankan.com/tr1ple-p-12335098.html
+https://kingx.me/Restrictions-and-Bypass-of-JNDI-Manipulations-RCE.html
 
 jdbc:
 https://reposhub.com/java/distributed-databases/su18-JDBC-Attack.html
