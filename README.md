@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 fastjson学习资料：
 http://noahblog.360.cn/blackhat-2021yi-ti-xiang-xi-fen-xi-fastjsonfan-xu-lie-hua-lou-dong-ji-zai-qu-kuai-lian-ying-yong-zhong-de-shen-tou-li-yong-2/
+1.68利用链：
+http://scz.617.cn:8/web/202008111715.txt
 
 jinjava:
 https://securitylab.github.com/advisories/GHSL-2020-072-hubspot_jinjava/
