@@ -37,3 +37,6 @@ https://www.cnblogs.com/nice0e3/p/13746076.html
 GO-template:
 https://colobu.com/2016/10/09/Go-embedded-template-best-practices/
 https://colobu.com/2019/11/05/Golang-Templates-Cheatsheet/
+
+yaml:
+  https://www.mi1k7ea.com/2019/11/29/Java-SnakeYaml%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/
