@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 封装了一些公共库
 
+####### 下面的信息和本库无关 ###########
 fastjson学习资料：
 http://noahblog.360.cn/blackhat-2021yi-ti-xiang-xi-fen-xi-fastjsonfan-xu-lie-hua-lou-dong-ji-zai-qu-kuai-lian-ying-yong-zhong-de-shen-tou-li-yong-2/
 1.68利用链：

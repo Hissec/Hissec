@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-func  GetMd5Key() string {
+func GetMd5Key() string {
 	time.Sleep(time.Microsecond)
 	rand.Seed(time.Now().UnixNano())
 	key := md5.Sum([]byte(strconv.Itoa(rand.Int())))
